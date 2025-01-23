@@ -24,11 +24,4 @@ Minha experiência inclui liderança de equipes em áreas como Backoffice, Quali
     src="https://github-readme-stats.vercel.app/api?username=izasomaio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=izasomaio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
