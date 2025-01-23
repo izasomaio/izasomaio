@@ -10,8 +10,7 @@ Além do mundo corporativo, sou apaixonada por animais! Tenho duas cachorras, um
 📊 Experiência Profissional
 Minha experiência inclui liderança de equipes em áreas como Backoffice, Qualidade, Treinamento e Customer Experience. Já trabalhei com ferramentas como Looker e metodologias como Lean Six Sigma (certificação Green Belt, caminhando para Black Belt) e Scrum, ajudando a otimizar operações e melhorar indicadores-chave de desempenho.
 
-https://custom-icon-badges.demolab.com/badge?logo=green.svg?logo=paintbrush&logoColor=white
-
+https://custom-icon-badges.demolab.com/badge/custom-?logo=green.svg?logo=paintbrush&logoColor=white
 
 ### 📊 Estatísticas
 
